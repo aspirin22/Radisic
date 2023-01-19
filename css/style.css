@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,400;0,8..144,500;0,8..144,700;1,8..144,600&display=swap');
+
+*,*::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+#nav-links a{
+    color: rgb(247, 96, 26);   
+}
+
+#nav-links a:hover{
+    color: black;
+    background-color:rgb(247, 96, 26) ;
+}
+
+#logo{
+    color: rgb(247, 96, 26);
+}
+
+#phone{
+    color: rgb(247, 96, 26) ;
+    
+}
+
+#hamburger{
+    color: white;
+    background-color: rgb(247, 96, 26);
+}
+
+#main-pic img {
+    height: 100vh;
+}
+
+.social-media-icons-white  {
+    height: 60px;
+    justify-content: space-evenly;
+
+}
+.social-media-icons-white a {
+    height: 100%;
+    color:rgb(247, 96, 26);
+    font-size: 2rem;
+    justify-content: space-evenly;
+}
+
+#copyright{
+    color: rgb(247, 96, 26);
+}
